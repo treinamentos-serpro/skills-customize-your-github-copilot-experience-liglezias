@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "file-organizer-python",
+      "title": "File Organizer with Python",
+      "description": "Automate file organization by extension with pathlib, a dry-run preview, and safe confirmation before moving files.",
+      "path": "assignments/file-organizer-python",
+      "dueDate": "2026-10-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
